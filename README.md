@@ -8,7 +8,7 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)（<a href="#付费机场">付费机场</a>）
+TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](lug.us.kg)
 
 
 ## Shadowsocks软件介绍
@@ -38,7 +38,7 @@ TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)（<a href="#付费机场">�
 
 ## 小火箭+机场教程（稳定）👍
 
-机场请看下面的免费机场、[付费机场](#付费机场推荐)（机场里就是节点）
+机场请看下面的免费机场、[付费机场](lug.us.kg)（机场里就是节点）
 
 ![image-20240709111253316](C:\Users\skylu\Downloads\image-20240709111253316.png)
 
