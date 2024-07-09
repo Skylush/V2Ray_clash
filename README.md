@@ -60,7 +60,7 @@ TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](lug.us.kg)
 
 [小窝加速](https://lug.us.kg)
 
-![image-20240709113431063](https://github.com/Skylush/V2Ray_clash/tree/main/images/image-20240709113431063.png)
+[image-20240709113431063](https://github.com/Skylush/V2Ray_clash/tree/main/images/image-20240709113431063.png)
 
 - 
 
