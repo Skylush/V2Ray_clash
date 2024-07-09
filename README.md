@@ -40,9 +40,9 @@ TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](lug.us.kg)
 
 机场请看下面的免费机场、[付费机场](lug.us.kg)（机场里就是节点）
 
-![image-20240709111253316](https://github.com/Skylush/V2Ray_clash/tree/main/images/image-20240709111253316.png)
+![image-20240709111253316](https://github.com/Skylush/V2Ray_clash/raw/main/images/image-20240709111253316.png)
 
-![image-20240709111232329](https://github.com/Skylush/V2Ray_clash/tree/main/images/image-20240709111232329.png)
+![image-20240709111232329](https://github.com/Skylush/V2Ray_clash/raw/main/images/image-20240709111232329.png)
 
 ### 小火箭添加订阅链接
 
