@@ -46,7 +46,7 @@ TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](lug.us.kg)
 
 ### 小火箭添加订阅链接
 
-![IMG_1143](https://github.com/Skylush/V2Ray_clash/tree/main/images/IMG_1143.PNG)![IMG_1139](https://github.com/Skylush/V2Ray_clash/tree/main/images/IMG_1139.PNG)![IMG_1141](https://github.com/Skylush/V2Ray_clash/tree/main/images/IMG_1141.PNG)![IMG_1139](https://github.com/Skylush/V2Ray_clash/tree/main/images/IMG_1139.PNG)
+![IMG_1143](https://github.com/Skylush/V2Ray_clash/raw/main/images/IMG_1143.PNG)![IMG_1139](https://github.com/Skylush/V2Ray_clash/raw/main/images/IMG_1139.PNG)![IMG_1141](https://github.com/Skylush/V2Ray_clash/raw/main/images/IMG_1141.PNG)![IMG_1139](https://github.com/Skylush/V2Ray_clash/raw/main/images/IMG_1139.PNG)
 
 ## Android手机APP推荐👍
 
@@ -60,7 +60,7 @@ TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](lug.us.kg)
 
 [小窝加速](https://lug.us.kg)
 
-![image-20240709113431063](https://github.com/Skylush/V2Ray_clash/tree/main/images/image-20240709113431063.png)
+![image-20240709113431063](https://github.com/Skylush/V2Ray_clash/raw/main/images/image-20240709113431063.png)
 
 
 ## Shadowrocket账号
