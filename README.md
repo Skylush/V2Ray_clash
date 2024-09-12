@@ -8,7 +8,7 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](lug.us.kg)
+TG群：[www.xiaoo.store](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](www.xiaoo.store)
 
 
 ## Shadowsocks软件介绍
@@ -38,7 +38,7 @@ TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](lug.us.kg)
 
 ## 小火箭+机场教程（稳定）👍
 
-机场请看下面的免费机场、[付费机场](lug.us.kg)（机场里就是节点）
+机场请看下面的免费机场、[付费机场](www.xiaoo.store)（机场里就是节点）
 
 ![image-20240709111253316](https://github.com/Skylush/V2Ray_clash/raw/main/images/image-20240709111253316.png)
 ![IMG_1143](https://github.com/Skylush/V2Ray_clash/raw/main/images/IMG_1143.PNG)
@@ -52,11 +52,11 @@ TG群：[lug.us.kg](https://t.me/+OBCGYf7r5RRkMTM9)[付费机场](lug.us.kg)
 
 ### 机场
 
-[小窝加速·雄起](https://lug.us.kg)
+[小窝加速·雄起](https://www.xiaoo.store)
 
 ## 付费机场推荐
 
-[小窝加速](https://lug.us.kg)
+[小窝加速](https://www.xiaoo.store)
 
 ![image-20240709113431063](https://github.com/Skylush/V2Ray_clash/raw/main/images/image-20240709113431063.png)
 
